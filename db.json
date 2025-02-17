@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "fsd",
+      "class": "fsad",
+      "address": "sadssd",
+      "email": "ccbv",
+      "city": "safsad",
+      "password": "sd"
+    },
+    {
+      "id": 4,
+      "name": "kksd",
+      "class": "kdsjl",
+      "address": "dskkds",
+      "email": "sdldsk",
+      "city": "dmslsd",
+      "password": "msdklsl"
+    },
+    {
+      "id": 5,
+      "name": "fsdgdf",
+      "class": "fsad",
+      "address": "Malipura Dobalewesh Near Old Mahadev Temple Shegaon",
+      "email": "df",
+      "city": "safsad",
+      "password": ""
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
